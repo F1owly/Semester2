@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bnd05\source\repos\Project53\Project53\Source.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\bnd05\source\repos\Project53\Project53\Source.cpp(41,25): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Project53.vcxproj -> C:\Users\bnd05\source\repos\Project53\x64\Debug\Project53.exe
